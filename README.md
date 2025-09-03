@@ -15,9 +15,9 @@ Learning Engineer through code, analysis, and visualizations.
 💻 NLP & Transformers <div> <img src="https://img.shields.io/badge/Transformers-52307C?style=for-the-badge&logo=huggingface&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=ai&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/SpaCy-FF69B4?style=for-the-badge&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/NLTK-00FA9A?style=for-the-badge&logo=python&logoColor=000000" /> </div>
 📊 Data & Visualization
 <div> <img src="https://img.shields.io/badge/NumPy-4B0082?style=for-the-badge&logo=numpy&logoColor=FFD700" /> <img src="https://img.shields.io/badge/Pandas-1E90FF?style=for-the-badge&logo=pandas&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Matplotlib-FF4500?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/PyCaret-FF1493?style=for-the-badge&logo=python&logoColor=FFFFFF" /> </div>
- 
-🎥 Computer Vision
-<div style="display:flex; flex-wrap: wrap; justify-content:center; gap:10px;"> <img src="https://img.shields.io/badge/OpenCV-32CD32?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="OpenCV" /> <img src="https://img.shields.io/badge/YOLO-FF4500?style=for-the-badge&logo=ai&logoColor=FFFFFF" alt="YOLO" /> <img src="https://img.shields.io/badge/Face_Recognition-FF1493?style=for-the-badge&logo=ai&logoColor=FFFFFF" alt="Face Recognition" /> </div>
+
+ 🎥 Computer Vision
+<div style="display:flex; flex-wrap: wrap; justify-content:center; gap:10px;"> <img src="https://img.shields.io/badge/OpenCV-32CD32?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="OpenCV" /> <img src="https://img.shields.io/badge/Object_Detection-FF4500?style=for-the-badge&logo=ai&logoColor=FFFFFF" alt="Object Detection" /> <img src="https://img.shields.io/badge/Image_Segmentation-FF1493?style=for-the-badge&logo=ai&logoColor=FFFFFF" alt="Image Segmentation" /> </div>
 
 ⚡ Tech Stack & Tools
 <div align="center">
