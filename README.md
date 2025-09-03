@@ -9,14 +9,15 @@ Learning Engineer through code, analysis, and visualizations.
 
 
 
-## Skills & Tools
+## Skills 
 
 | **Machine Learning & AI**                                                                                                 | **Data & Visualization**                                                                                                    | **Computer Vision**                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | ![PyTorch](https://img.shields.io/badge/PyTorch-FF6F61?style=for-the-badge\&logo=pytorch\&logoColor=000000)               | ![NumPy](https://img.shields.io/badge/NumPy-4B0082?style=for-the-badge\&logo=numpy\&logoColor=FFD700)                       | ![OpenCV](https://img.shields.io/badge/OpenCV-32CD32?style=for-the-badge\&logo=opencv\&logoColor=FFFFFF)             |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF9900?style=for-the-badge\&logo=tensorflow\&logoColor=000000)      | ![Pandas](https://img.shields.io/badge/Pandas-1E90FF?style=for-the-badge\&logo=pandas\&logoColor=FFFFFF)                    | ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF4500?style=for-the-badge\&logo=matplotlib\&logoColor=FFFFFF) |
-| ![Transformers](https://img.shields.io/badge/Transformers-52307C?style=for-the-badge\&logo=huggingface\&logoColor=F7DF1E) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FFB347?style=for-the-badge\&logo=scikit-learn\&logoColor=000000) | ![PyCaret](https://img.shields.io/badge/PyCaret-FF1493?style=for-the-badge\&logo=python\&logoColor=FFFFFF)           |
+| ![Transformers](https://img.shields.io/badge/Transformers-52307C?style=for-the-badge\&logo=huggingface\&logoColor=F7DF1E) |  | ![PyCaret](https://img.shields.io/badge/PyCaret-FF1493?style=for-the-badge\&logo=python\&logoColor=FFFFFF)           |
 | ![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-00CED1?style=for-the-badge\&logo=ai\&logoColor=FFFFFF)      | -                                                                                                                           | -                                                                                                                    |
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FFB347?style=for-the-badge\&logo=scikit-learn\&logoColor=000000) |
 
 
 <!--### ** Frameworks**-->
