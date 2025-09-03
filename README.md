@@ -46,7 +46,7 @@ Learning Engineer through code, analysis, and visualizations.
 [![Git](https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white)](#)
 
 ### **Experience**
-##Teaching Assistant- Machine Learning & Python Programming Language.
+###**Teaching Assistant:** Machine Learning & Python Programming Language.
 Enhancing Digital Government and Economy (EDGE).
 A Project of Bangladesh Computer Council (BCC) Under the ICT Division.
 
