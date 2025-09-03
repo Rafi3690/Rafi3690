@@ -45,7 +45,10 @@ Learning Engineer through code, analysis, and visualizations.
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-F4A460?style=flat-square&logo=huggingface&logoColor=black)](#)
 [![Git](https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white)](#)
 
-
+### **Research Interest**
+I am deeply interested in developing efficient and robust artificial intelligence systems by leveraging computer vision (CV), natural
+language processing (NLP), and multimodal learning. My research focuses on advancing the optimization of deep learning models,
+with a specialization in transformer architectures and their optimization.
 
 
 
