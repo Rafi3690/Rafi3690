@@ -104,7 +104,7 @@ Breast cancer prediction involves analyzing medical data (e.g., tumor characteri
 Machine learning models can be used to automate this process, offering faster and more accurate diagnostics. PyCaret, an open-source machine learning library in Python, simplifies 
 the process of model training, evaluation, and deployment, making it an excellent choice for predicting breast cancer from a dataset.
 
-### [Medical Assistant Chatbot Using Langchain](https://github.com/Rafi3690/Sensor-Fusion-MultiModal-Animal-Classification)
+### [Medical Assistant Chatbot Using Langchain](https://github.com/Rafi3690/Chatbot-Development)
 A Medical Assistant Chatbot providing accurate, context-aware healthcare responses using LangChain and Retrieval-Augmented Generation (RAG). 
 It retrieves relevant medical information from documents or databases and generates evidence-based answers for patient queries efficiently and reliably.
 
