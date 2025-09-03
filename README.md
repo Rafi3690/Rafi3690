@@ -2,7 +2,11 @@
 
 # Hi, I'm M.A. RAFI
 
-This repository presents a curated collection of Machine Learning projects across Computer Vision, Natural Language Processing, LangChain, and Multimodal Learning. Each project demonstrates end-to-end workflows, advanced deep learning methods, and real-world applications, reflecting my expertise as a Data Scientist and Machine Learning Engineer through code, analysis, and visualizations.
+This repository presents a curated collection of Machine Learning projects across 
+Computer Vision, Natural Language Processing, LangChain, and Multimodal Learning. 
+Each project demonstrates end-to-end workflows, advanced deep learning methods, and 
+real-world applications, reflecting my expertise as a Data Scientist and Machine 
+Learning Engineer through code, analysis, and visualizations.
 
 
 
@@ -20,13 +24,9 @@ This repository presents a curated collection of Machine Learning projects acros
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)](#)
 
 
-### **Deployment, DevOps & Frameworks**
-[![fastAPI](https://img.shields.io/badge/fastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
+### ** Frameworks**
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-[![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 
 ### **Programming Languages**
@@ -38,10 +38,10 @@ This repository presents a curated collection of Machine Learning projects acros
 
 
 ### **Familiar Platforms**
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
-[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](#)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](#)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
 [![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](#)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
