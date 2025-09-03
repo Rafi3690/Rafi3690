@@ -12,7 +12,7 @@ Learning Engineer through code, analysis, and visualizations.
 
 ## 🛠️ Skills & Tools
 
-### **ML & AI**
+### **Machine Learning & Artificial Intelligence**
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
@@ -29,12 +29,12 @@ Learning Engineer through code, analysis, and visualizations.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 
+
 ### **Programming Languages**
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
+![R](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 
 
 ### **Familiar Platforms**
@@ -68,14 +68,12 @@ projects and analyses that demonstrate my ability to extract insights and make
 data-driven decisions through Machine Learning.
 
 
-### [🚍 Vehicle license plate recognition](https://github.com/m4hfuj/automatic-bangla-license-plate-recognition)
+### [Medical Image Segmentation (ISIC-17)](https://github.com/Rafi3690/ISIC-2017-Segmentation)
 
-Tech Stack: Python, YOLOv8, PyQt5, opencv, PyTorch
+Tech Stack: Python, opencv, PyTorch
 
-Automatic License Plate Recognition (ALPR) is a system that detects and identifies 
-license plates from real-time video footage. It employs YOLO object detection 
-models to locate license plates and extract alphanumeric data. Applications 
-include vehicle tracking and recording entry and exit times in a database.
+The ISIC-17 dataset provides high-resolution dermoscopic images for skin lesion segmentation, 
+aiming to accurately delineate lesion boundaries. This project employs deep learning segmentation models.
 
 <!-- ![Automatic License Plate Recognition](assets/project-alpr.gif) -->
 <!-- <img src="assets/project-alpr.gif" width="600"> -->
@@ -83,7 +81,7 @@ include vehicle tracking and recording entry and exit times in a database.
 
 
 
-### [⚽ Football game analysis using computer vision](https://github.com/m4hfuj/football-game-analysis)
+### [⚽ Football game analysis using computer vision]()
 
 This repository contains a robust pipeline for analyzing football game videos, focusing on 
 object detection, tracking, team assignments, and ball control analysis. The program leverages 
@@ -95,7 +93,7 @@ through annotations and statistics.
 
 
 
-### [🙂 Face detection and recognition using yolov8 facenet](https://github.com/m4hfuj/FaceStream/tree/version-6)
+<!--### [🙂 Face detection and recognition using yolov8 facenet](https://github.com/m4hfuj/FaceStream/tree/version-6)
 
 This Python project processes live video from a webcam or YouTube stream, detecting 
 faces and applying filters in real time. It uses YOLOv8 for face detection,
@@ -109,7 +107,7 @@ experience.
 
 
 
-### [🔎 Bangladeshi tech job data analysis from bdjobs](https://github.com/m4hfuj/bangladeshi-tech-job-query)
+<!--### [🔎 Bangladeshi tech job data analysis from bdjobs](https://github.com/m4hfuj/bangladeshi-tech-job-query)
 
 This project automates the collection of technical job data from BD Jobs using 
 web scraping and stores it in a MySQL database. Job fields are classified using 
@@ -178,7 +176,10 @@ highlighting the range of skills I have developed in this area.
 
 Here is some certificates that I achieved: -->
 
-#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://coursera.org/share/1fe452302aaab3d09a03d8394e07db63)]
+#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://drive.google.com/file/d/1LzMUfjKMJSBGMOGwD127hCvszlgTjcFj/view?usp=sharing)]
+#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://www.coursera.org/account/accomplishments/certificate/DZPZPRHQACSL)]
+#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://learn.deeplearning.ai/accomplishments/234fa2cb-058b-43f1-b9fe-43f6a007adce?usp=sharing)]
+#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://drive.google.com/file/d/1d-zlQ00xAv5KE6SGFLknd_UpA93rnPeu/view)]
 
 <!-- 
 <img src="assets/certificate.png" width="600" height="350">
@@ -204,11 +205,13 @@ View it online: [Certificate Link](https://coursera.org/share/1fe452302aaab3d09a
 
 ## 📝 Author
 
-[Mirza Mahfuj Hossain](https://github.com/m4hfuj)
+[M.A. RAFI ](https://github.com/Rafi3690)
 
-📧 mhmirza.just@gmail.com  
+📧 maraficse341@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mirza-mahfuj-hossain/)
+🔗 [LinkedIn](www.linkedin.com/in/m-a-rafi-a7300b262
+
+)
 
 
-#### © 2024 Mirza Mahfuj Hossain. All rights reserved.
+#### © 2024 M.A. RAFI All rights reserved.
