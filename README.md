@@ -35,7 +35,7 @@ Learning Engineer through code, analysis, and visualizations.
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-![R](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
 ### **Familiar Platforms**
@@ -83,9 +83,11 @@ aiming to accurately delineate lesion boundaries. This project employs deep lear
 
 <!-- ![Automatic License Plate Recognition](assets/project-alpr.gif) -->
 <!-- <img src="assets/project-alpr.gif" width="600"> -->
-### [E-commerce Chatbot Using Langchain](https://github.com/Rafi3690/Chatbot-Development/upload)
-### [E-commerce Chatbot Using Langchain](https://github.com/Rafi3690/Sensor-Fusion-MultiModal-Animal-Classification)
+### [Breast Cancer Prediction Using Pycaret](https://github.com/Rafi3690/Breast-Cancer-Prediction-Useing-Pycaret)
 
+### [Medical Assistant Chatbot Using Langchain](https://github.com/Rafi3690/Sensor-Fusion-MultiModal-Animal-Classification)
+A Medical Assistant Chatbot providing accurate, context-aware healthcare responses using LangChain and Retrieval-Augmented Generation (RAG). 
+It retrieves relevant medical information from documents or databases and generates evidence-based answers for patient queries efficiently and reliably.
 
 
 <!-- ![project-Football-Game-Analysis](assets/project-Football-Game-Analysis.gif) -->
