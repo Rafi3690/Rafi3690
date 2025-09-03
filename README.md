@@ -2,11 +2,7 @@
 
 # Hi, I'm M.A. RAFI
 
-Welcome to my Machine Learning Portfolio! This repository showcases a collection of 
-machine learning projects in various domains, demonstrating my skills and expertise 
-as a data scientist and machine learning engineer. Each project provides step-by-step 
-instructions, code, and visualizations to showcase the data analysis and modeling 
-techniques employed
+This repository presents a curated collection of Machine Learning projects across Computer Vision, Natural Language Processing, LangChain, and Multimodal Learning. Each project demonstrates end-to-end workflows, advanced deep learning methods, and real-world applications, reflecting my expertise as a Data Scientist and Machine Learning Engineer through code, analysis, and visualizations.
 
 
 
