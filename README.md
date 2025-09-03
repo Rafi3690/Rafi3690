@@ -19,25 +19,14 @@ Learning Engineer through code, analysis, and visualizations.
 🎥 Computer Vision
 <div> <img src="https://img.shields.io/badge/OpenCV-32CD32?style=for-the-badge&logo=opencv&logoColor=FFFFFF" /> </div> </div>
 
-<!--### ** Frameworks**-->
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-
-
-### **Programming Languages**
-[![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=FFD43B)](#)
-[![SQL](https://img.shields.io/badge/SQL-1E3A5F?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-0078D7?style=flat-square&logo=c&logoColor=white)](#)
-[![R](https://img.shields.io/badge/R-1B4F72?style=flat-square&logo=r&logoColor=FFD43B)](#)
-
-### **Platforms**
-[![Coursera](https://img.shields.io/badge/Coursera-1E90FF?style=flat-square&logo=coursera&logoColor=white)](#)
-[![Kaggle](https://img.shields.io/badge/Kaggle-FF69B4?style=flat-square&logo=kaggle&logoColor=white)](#)
-[![Conda](https://img.shields.io/badge/Conda-008080?style=flat-square&logo=anaconda&logoColor=white)](#)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-F4A460?style=flat-square&logo=huggingface&logoColor=black)](#)
-[![Git](https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white)](#)
+⚡ Tech Stack & Tools
+<div align="center">
+🏗️ Frameworks & Tools
+<div> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> </div>
+💻 Programming Languages
+<div> <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/SQL-1E3A5F?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C-0078D7?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/R-1B4F72?style=for-the-badge&logo=r&logoColor=FFD43B" /> </div>
+🌐 Platforms & Tools
+<div> <img src="https://img.shields.io/badge/Coursera-1E90FF?style=for-the-badge&logo=coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Kaggle-FF69B4?style=for-the-badge&logo=kaggle&logoColor=white" /> <img src="https://img.shields.io/badge/Conda-008080?style=for-the-badge&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-F4A460?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" /> </div> </div>
 
 ### **Experience**
 Teaching Assistant:- Machine Learning & Python Programming Language.<br>
