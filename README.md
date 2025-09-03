@@ -78,7 +78,7 @@ computer vision while contributing to the development of impactful and intellige
 
  maraficse341@gmail.com
 
-🔗 [LinkedIn](www.linkedin.com/in/m-a-rafi-a7300b262)
+🔗 📫[LinkedIn](www.linkedin.com/in/m-a-rafi-a7300b262)
 
 ### Projects
 
