@@ -202,10 +202,7 @@ highlighting the range of skills I have developed in this area.
 
 Here is some certificates that I achieved: -->
 
-#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://drive.google.com/file/d/1LzMUfjKMJSBGMOGwD127hCvszlgTjcFj/view?usp=sharing)]
-#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://www.coursera.org/account/accomplishments/certificate/DZPZPRHQACSL)]
-#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://learn.deeplearning.ai/accomplishments/234fa2cb-058b-43f1-b9fe-43f6a007adce?usp=sharing)]
-#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://drive.google.com/file/d/1d-zlQ00xAv5KE6SGFLknd_UpA93rnPeu/view)]
+<div align="center"> <div style="display:flex; flex-wrap: wrap; justify-content:center; gap:10px;"> <a href="https://drive.google.com/file/d/1LzMUfjKMJSBGMOGwD127hCvszlgTjcFj/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=deeplearning.ai&logoColor=FFFFFF" alt="Certificate 1" /> </a> <a href="https://www.coursera.org/account/accomplishments/certificate/DZPZPRHQACSL" target="_blank"> <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=deeplearning.ai&logoColor=FFFFFF" alt="Certificate 2" /> </a> <a href="https://learn.deeplearning.ai/accomplishments/234fa2cb-058b-43f1-b9fe-43f6a007adce?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=deeplearning.ai&logoColor=FFFFFF" alt="Certificate 3" /> </a> <a href="https://drive.google.com/file/d/1d-zlQ00xAv5KE6SGFLknd_UpA93rnPeu/view" target="_blank"> <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=deeplearning.ai&logoColor=FFFFFF" alt="Certificate 4" /> </a> </div> </div>
 
 <!-- 
 <img src="assets/certificate.png" width="600" height="350">
