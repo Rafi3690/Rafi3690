@@ -11,7 +11,7 @@ Learning Engineer through code, analysis, and visualizations.
 
 ## Skills & Tools
 
-### **Machine Learning **
+<!--### **Machine Learning **-->
 [![PyTorch](https://img.shields.io/badge/PyTorch-FF6F61?style=flat-square&logo=pytorch&logoColor=000000)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF9900?style=flat-square&logo=tensorflow&logoColor=000000)](#)
 [![Transformers](https://img.shields.io/badge/Transformers-52307C?style=flat-square&logo=huggingface&logoColor=F7DF1E)](#)
