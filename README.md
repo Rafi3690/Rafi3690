@@ -38,7 +38,7 @@ Learning Engineer through code, analysis, and visualizations.
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
-### **Familiar Platforms**
+### **Platforms**
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](#)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
 [![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](#)
@@ -60,8 +60,15 @@ Learning Engineer through code, analysis, and visualizations.
 ---
 - [<ins><b>©2023 Mirza Mahfuj Hossain. All rights reserved</b></ins>]()
 --- -->
+## 📝 Contact
 
-### 🎯 Projects & Highlights
+[M.A. RAFI ](https://github.com/Rafi3690)
+
+📧 maraficse341@gmail.com
+
+🔗 [LinkedIn](www.linkedin.com/in/m-a-rafi-a7300b262)
+
+### Projects
 
 Welcome to my Machine Learning Portfolio! This repository showcases my skills and 
 experience in the field of Machine Learning. Here, you will find a collection of 
@@ -69,7 +76,7 @@ projects and analyses that demonstrate my ability to extract insights and make
 data-driven decisions through Machine Learning.
 
 ### [E-commerce Chatbot Using Langchain](https://github.com/Rafi3690/E-commerce-Chatbot)
-
+Langchain,RAG
 This repository presents an intelligent E-commerce Chatbot designed to assist customers by answering product queries, 
 providing recommendations, and supporting order management. The system leverages LangChain to orchestrate large language models (LLMs)
 and Retrieval-Augmented Generation (RAG) to fetch relevant information from a structured product database or knowledge base in real-time.
@@ -144,7 +151,7 @@ medicine details based on disease symptoms. -->
 
 
 
-## 🧮 Machine Learning / Deep Learning 
+<!--## 🧮 Machine Learning / Deep Learning 
 
 I have spent a lot of time diving deep into various machine learning and deep learning algorithms, 
 learning both the theory behind them and how to implement them in code. This 
@@ -209,16 +216,5 @@ View it online: [Certificate Link](https://coursera.org/share/1fe452302aaab3d09a
 **Basic Image Classification with TensorFlow** [[View Certificate](https://coursera.org/share/d4e4f32a781f2aade35ed126eb2fe00a)]
 
  -->
-
-## 📝 Author
-
-[M.A. RAFI ](https://github.com/Rafi3690)
-
-📧 maraficse341@gmail.com
-
-🔗 [LinkedIn](www.linkedin.com/in/m-a-rafi-a7300b262
-
-)
-
 
 #### © 2024 M.A. RAFI All rights reserved.
