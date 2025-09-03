@@ -33,11 +33,10 @@ Learning Engineer through code, analysis, and visualizations.
 
 
 ### **Programming Languages**
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
+[![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=FFD43B)](#)
+[![SQL](https://img.shields.io/badge/SQL-1E3A5F?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-0078D7?style=flat-square&logo=c&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-1B4F72?style=flat-square&logo=r&logoColor=FFD43B)](#)
 
 ### **Platforms**
 [![Coursera](https://img.shields.io/badge/Coursera-1E90FF?style=flat-square&logo=coursera&logoColor=white)](#)
