@@ -109,7 +109,7 @@ the process of model training, evaluation, and deployment, making it an excellen
 A Medical Assistant Chatbot providing accurate, context-aware healthcare responses using LangChain and Retrieval-Augmented Generation (RAG). 
 It retrieves relevant medical information from documents or databases and generates evidence-based answers for patient queries efficiently and reliably.
 
-
+### [Automatic Traffic Detection]()
 <!-- ![project-Football-Game-Analysis](assets/project-Football-Game-Analysis.gif) -->
 <!-- <img src="assets/project-Football-Game-Analysis.gif" width="600"> -->
 
