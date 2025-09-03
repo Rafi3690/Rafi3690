@@ -28,10 +28,23 @@ Learning Engineer through code, analysis, and visualizations.
 🌐 Platforms & Tools
 <div> <img src="https://img.shields.io/badge/Coursera-1E90FF?style=for-the-badge&logo=coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Kaggle-FF69B4?style=for-the-badge&logo=kaggle&logoColor=white" /> <img src="https://img.shields.io/badge/Conda-008080?style=for-the-badge&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-F4A460?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" /> </div> </div>
 
-### **Experience**
-Teaching Assistant:- Machine Learning & Python Programming Language.<br>
-Enhancing Digital Government and Economy (EDGE).<br>
-A Project of Bangladesh Computer Council (BCC) Under the ICT Division.
+🏆 Experience
+
+Teaching Assistant – Machine Learning & Python Programming
+<sub>Enhancing Digital Government and Economy (EDGE)</sub>
+<sub>A flagship project of Bangladesh Computer Council (BCC) under the ICT Division</sub>
+
+<div>
+
+Key Highlights:
+
+Assisted students in learning Machine Learning & Python programming
+
+Supported EDGE project workshops and tutorials
+
+Contributed to enhancing digital skills in government services
+
+</div>
 
 ### **Research Interest**
 I am deeply interested in developing efficient and robust artificial intelligence systems by leveraging computer vision (CV), natural
