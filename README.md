@@ -72,11 +72,11 @@ computer vision while contributing to the development of impactful and intellige
 ---
 - [<ins><b>©2023 Mirza Mahfuj Hossain. All rights reserved</b></ins>]()
 --- -->
-## 📝 Contact
+## Contact
 
 [M.A. RAFI ](https://github.com/Rafi3690)
 
-📧 maraficse341@gmail.com
+ maraficse341@gmail.com
 
 🔗 [LinkedIn](www.linkedin.com/in/m-a-rafi-a7300b262)
 
@@ -87,14 +87,15 @@ This repository showcases projects that blend innovation, analysis, and predicti
 how I solve real-world problems with data-driven creativity.
 
 ### [E-commerce Chatbot Using Langchain](https://github.com/Rafi3690/E-commerce-Chatbot)
-Langchain,RAG
+LangChain, Retrieval-Augmented Generation (RAG)
+
 This repository presents an intelligent E-commerce Chatbot designed to assist customers by answering product queries, 
 providing recommendations, and supporting order management. The system leverages LangChain to orchestrate large language models (LLMs)
 and Retrieval-Augmented Generation (RAG) to fetch relevant information from a structured product database or knowledge base in real-time.
 
 ### [Medical Image Segmentation (ISIC-17)](https://github.com/Rafi3690/ISIC-2017-Segmentation)
 
-Tech Stack: Python, opencv, PyTorch
+Python, opencv, PyTorch
 
 The ISIC-17 dataset provides high-resolution dermoscopic images for skin lesion segmentation, 
 aiming to accurately delineate lesion boundaries. This project employs deep learning segmentation models.
@@ -102,6 +103,10 @@ aiming to accurately delineate lesion boundaries. This project employs deep lear
 <!-- ![Automatic License Plate Recognition](assets/project-alpr.gif) -->
 <!-- <img src="assets/project-alpr.gif" width="600"> -->
 ### [Breast Cancer Prediction Using Pycaret](https://github.com/Rafi3690/Breast-Cancer-Prediction-Useing-Pycaret)
+
+Breast cancer prediction involves analyzing medical data (e.g., tumor characteristics, biopsies) to predict whether a tumor is malignant (cancerous) or benign (non-cancerous). 
+Machine learning models can be used to automate this process, offering faster and more accurate diagnostics. PyCaret, an open-source machine learning library in Python, simplifies 
+the process of model training, evaluation, and deployment, making it an excellent choice for predicting breast cancer from a dataset.
 
 ### [Medical Assistant Chatbot Using Langchain](https://github.com/Rafi3690/Sensor-Fusion-MultiModal-Animal-Classification)
 A Medical Assistant Chatbot providing accurate, context-aware healthcare responses using LangChain and Retrieval-Augmented Generation (RAG). 
