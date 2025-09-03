@@ -8,14 +8,16 @@ real-world applications, reflecting my expertise as a Data Scientist and Machine
 Learning Engineer through code, analysis, and visualizations.
 
 
-
-| **🤖 Machine Learning**                                                                                                     | **💻 NLP & Transformers**                                                                                                 | **📊 Data & Visualization**                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-FF6F61?style=for-the-badge\&logo=pytorch\&logoColor=000000)                 | ![Transformers](https://img.shields.io/badge/Transformers-52307C?style=for-the-badge\&logo=huggingface\&logoColor=F7DF1E) | ![NumPy](https://img.shields.io/badge/NumPy-4B0082?style=for-the-badge\&logo=numpy\&logoColor=FFD700)                |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF9900?style=for-the-badge\&logo=tensorflow\&logoColor=000000)        | ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge\&logo=ai\&logoColor=FFFFFF)                            | ![Pandas](https://img.shields.io/badge/Pandas-1E90FF?style=for-the-badge\&logo=pandas\&logoColor=FFFFFF)             |
-| ![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-00CED1?style=for-the-badge\&logo=ai\&logoColor=FFFFFF)        | ![SpaCy](https://img.shields.io/badge/SpaCy-FF69B4?style=for-the-badge\&logo=python\&logoColor=FFFFFF)                    | ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF4500?style=for-the-badge\&logo=matplotlib\&logoColor=FFFFFF) |
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FFB347?style=for-the-badge\&logo=scikit-learn\&logoColor=000000) | ![NLTK](https://img.shields.io/badge/NLTK-00FA9A?style=for-the-badge\&logo=python\&logoColor=000000)                      | ![PyCaret](https://img.shields.io/badge/PyCaret-FF1493?style=for-the-badge\&logo=python\&logoColor=FFFFFF)           |
-
+🧠 Skills & Tools
+<div align="center">
+🤖 Machine Learning & AI
+<div> <img src="https://img.shields.io/badge/PyTorch-FF6F61?style=for-the-badge&logo=pytorch&logoColor=000000" /> <img src="https://img.shields.io/badge/TensorFlow-FF9900?style=for-the-badge&logo=tensorflow&logoColor=000000" /> <img src="https://img.shields.io/badge/Scikit--Learn-FFB347?style=for-the-badge&logo=scikit-learn&logoColor=000000" /> <img src="https://img.shields.io/badge/Multimodal%20AI-00CED1?style=for-the-badge&logo=ai&logoColor=FFFFFF" /> </div>
+💻 NLP & Transformers
+<div> <img src="https://img.shields.io/badge/Transformers-52307C?style=for-the-badge&logo=huggingface&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=ai&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/SpaCy-FF69B4?style=for-the-badge&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/NLTK-00FA9A?style=for-the-badge&logo=python&logoColor=000000" /> </div>
+📊 Data & Visualization
+<div> <img src="https://img.shields.io/badge/NumPy-4B0082?style=for-the-badge&logo=numpy&logoColor=FFD700" /> <img src="https://img.shields.io/badge/Pandas-1E90FF?style=for-the-badge&logo=pandas&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Matplotlib-FF4500?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/PyCaret-FF1493?style=for-the-badge&logo=python&logoColor=FFFFFF" /> </div>
+🎥 Computer Vision
+<div> <img src="https://img.shields.io/badge/OpenCV-32CD32?style=for-the-badge&logo=opencv&logoColor=FFFFFF" /> </div> </div>
 
 <!--### ** Frameworks**-->
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
