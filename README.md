@@ -46,9 +46,9 @@ Learning Engineer through code, analysis, and visualizations.
 [![Git](https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white)](#)
 
 ### **Experience**
-Teaching Assistant- Machine Learning & Python Programming Language
-Enhancing Digital Government and Economy (EDGE)
-A Project of Bangladesh Computer Council (BCC) Under the ICT Division
+##Teaching Assistant- Machine Learning & Python Programming Language.
+Enhancing Digital Government and Economy (EDGE).
+A Project of Bangladesh Computer Council (BCC) Under the ICT Division.
 
 ### **Research Interest**
 I am deeply interested in developing efficient and robust artificial intelligence systems by leveraging computer vision (CV), natural
