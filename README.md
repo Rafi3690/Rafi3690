@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Mirza Mahfuj Hossain
+# Hi, I'm M.A. RAFI
 
 Welcome to my Machine Learning Portfolio! This repository showcases a collection of 
 machine learning projects in various domains, demonstrating my skills and expertise 
