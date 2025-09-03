@@ -9,7 +9,7 @@ Learning Engineer through code, analysis, and visualizations.
 
 
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### **Machine Learning & Artificial Intelligence**
 [![PyTorch](https://img.shields.io/badge/PyTorch-FF6F61?style=flat-square&logo=pytorch&logoColor=000000)](#)
