@@ -67,6 +67,11 @@ experience in the field of Machine Learning. Here, you will find a collection of
 projects and analyses that demonstrate my ability to extract insights and make 
 data-driven decisions through Machine Learning.
 
+### [E-commerce Chatbot Using Langchain](https://github.com/Rafi3690/E-commerce-Chatbot)
+
+This repository presents an intelligent E-commerce Chatbot designed to assist customers by answering product queries, 
+providing recommendations, and supporting order management. The system leverages LangChain to orchestrate large language models (LLMs)
+and Retrieval-Augmented Generation (RAG) to fetch relevant information from a structured product database or knowledge base in real-time.
 
 ### [Medical Image Segmentation (ISIC-17)](https://github.com/Rafi3690/ISIC-2017-Segmentation)
 
@@ -77,16 +82,10 @@ aiming to accurately delineate lesion boundaries. This project employs deep lear
 
 <!-- ![Automatic License Plate Recognition](assets/project-alpr.gif) -->
 <!-- <img src="assets/project-alpr.gif" width="600"> -->
+### [E-commerce Chatbot Using Langchain](https://github.com/Rafi3690/Chatbot-Development/upload)
+### [E-commerce Chatbot Using Langchain](https://github.com/Rafi3690/Sensor-Fusion-MultiModal-Animal-Classification)
 
 
-
-
-### [⚽ Football game analysis using computer vision]()
-
-This repository contains a robust pipeline for analyzing football game videos, focusing on 
-object detection, tracking, team assignments, and ball control analysis. The program leverages 
-advanced computer vision techniques to process game footage, delivering detailed insights 
-through annotations and statistics.
 
 <!-- ![project-Football-Game-Analysis](assets/project-Football-Game-Analysis.gif) -->
 <!-- <img src="assets/project-Football-Game-Analysis.gif" width="600"> -->
@@ -152,20 +151,25 @@ list of the machine learning algorithms and techniques I am familiar with,
 highlighting the range of skills I have developed in this area.
 
 
-- [Machine Learning Algorithms](https://github.com/m4hfuj/Machine-Learning-Algorithms): In this repository, 
+- [Machine Learning Algorithms](): In this repository, 
   I have implemented fundamental machine learning algorithms from scratch, without using any libraries or 
   packages. It is a hands-on way I have explored the basics of these algorithms.
 
-- [Computer Vision Algorithms](https://github.com/m4hfuj/Computer-Vision-Algorithms): This repository 
+- [Computer Vision Algorithms](): This repository 
+  contains some of the computer vision algorithms I have worked on, including image classification, 
+  object detection, and image segmentation. These implementations use frameworks like PyTorch and 
+  TensorFlow, which I have gained hands-on experience with.
+  
+  [Natural Language Processing Algorithms](): This repository 
   contains some of the computer vision algorithms I have worked on, including image classification, 
   object detection, and image segmentation. These implementations use frameworks like PyTorch and 
   TensorFlow, which I have gained hands-on experience with.
 
-- [Unsupervised Learning Algorithms](https://github.com/m4hfuj/unsupervised-learning): I have implemented 
+- [Unsupervised Learning Algorithms](): I have implemented 
   several unsupervised learning algorithms, including a recommendendation system. It is a project where I explore 
   how to handle and derive insights from data without labeled examples.
 
-- [Large Language Models](https://github.com/m4hfuj/Large-Language-Models): This repository contains 
+- [Large Language Models](): This repository contains 
   code for loading, encoding, and fine-tuning large language models (LLMs). It reflects my work on 
   adapting pre-trained models for various natural language processing tasks.
     
