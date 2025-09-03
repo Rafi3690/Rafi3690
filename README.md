@@ -1,5 +1,4 @@
 
-
 # Hi, I'm M.A. RAFI
 
 This repository presents a curated collection of Machine Learning projects across 
@@ -22,6 +21,8 @@ Learning Engineer through code, analysis, and visualizations.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![PyCaret](https://img.shields.io/badge/PyCaret-0052CC?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-4CAF50?style=for-the-badge&logo=ai&logoColor=white)](#)
 
 
 ### ** Frameworks**
