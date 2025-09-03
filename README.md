@@ -46,7 +46,7 @@ Learning Engineer through code, analysis, and visualizations.
 [![Git](https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white)](#)
 
 ### **Experience**
-###**Teaching Assistant:** Machine Learning & Python Programming Language.
+Teaching Assistant:- Machine Learning & Python Programming Language.
 Enhancing Digital Government and Economy (EDGE).
 A Project of Bangladesh Computer Council (BCC) Under the ICT Division.
 
@@ -55,7 +55,7 @@ I am deeply interested in developing efficient and robust artificial intelligenc
 language processing (NLP), and multimodal learning. My research focuses on advancing the optimization of deep learning models,
 with a specialization in transformer architectures and their optimization. 
 
-### ** Carrer Objectives**
+### **Carrer Objectives**
 Passionate about machine learning and deep learning, interested in applying data-driven techniques and AI models to solve real-
 world problems. Actively seeking opportunities to deepen my skills in predictive modeling, natural language processing (NLP), and
 computer vision while contributing to the development of impactful and intelligent AI solutions.
