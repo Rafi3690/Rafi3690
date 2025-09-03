@@ -40,11 +40,11 @@ Learning Engineer through code, analysis, and visualizations.
 
 
 ### **Platforms**
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](#)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
-[![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](#)
-[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Coursera](https://img.shields.io/badge/Coursera-1E90FF?style=flat-square&logo=coursera&logoColor=white)](#)
+[![Kaggle](https://img.shields.io/badge/Kaggle-FF69B4?style=flat-square&logo=kaggle&logoColor=white)](#)
+[![Conda](https://img.shields.io/badge/Conda-008080?style=flat-square&logo=anaconda&logoColor=white)](#)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-F4A460?style=flat-square&logo=huggingface&logoColor=black)](#)
+[![Git](https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white)](#)
 
 
 
