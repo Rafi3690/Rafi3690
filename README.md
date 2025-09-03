@@ -12,16 +12,17 @@ Learning Engineer through code, analysis, and visualizations.
 ## 🛠️ Skills & Tools
 
 ### **Machine Learning & Artificial Intelligence**
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#)
-[![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat-square&logo=huggingface&logoColor=white)](#)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=flat-square&logo=numpy&logoColor=white)](#)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat-square&logo=matplotlib&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)](#)
-[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)](#)
-[![PyCaret](https://img.shields.io/badge/PyCaret-0052CC?style=flat-square&logo=python&logoColor=white)](#)
-[![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-4CAF50?style=flat-square&logo=ai&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-FF6F61?style=flat-square&logo=pytorch&logoColor=000000)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF9900?style=flat-square&logo=tensorflow&logoColor=000000)](#)
+[![Transformers](https://img.shields.io/badge/Transformers-52307C?style=flat-square&logo=huggingface&logoColor=F7DF1E)](#)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FFB347?style=flat-square&logo=scikit-learn&logoColor=000000)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4B0082?style=flat-square&logo=numpy&logoColor=FFD700)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-FF4500?style=flat-square&logo=matplotlib&logoColor=FFFFFF)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-1E90FF?style=flat-square&logo=pandas&logoColor=FFFFFF)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-32CD32?style=flat-square&logo=opencv&logoColor=FFFFFF)](#)
+[![PyCaret](https://img.shields.io/badge/PyCaret-FF1493?style=flat-square&logo=python&logoColor=FFFFFF)](#)
+[![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-00CED1?style=flat-square&logo=ai&logoColor=FFFFFF)](#)
+
 
 
 ### ** Frameworks**
