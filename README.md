@@ -11,9 +11,12 @@ Learning Engineer through code, analysis, and visualizations.
 🧠 Skills & Tools
 <div align="center">
 🤖 Machine Learning & AI
-<div> <img src="https://img.shields.io/badge/PyTorch-FF6F61?style=for-the-badge&logo=pytorch&logoColor=000000" /> <img src="https://img.shields.io/badge/TensorFlow-FF9900?style=for-the-badge&logo=tensorflow&logoColor=000000" /> <img src="https://img.shields.io/badge/Scikit--Learn-FFB347?style=for-the-badge&logo=scikit-learn&logoColor=000000" /> <img src="https://img.shields.io/badge/Multimodal%20AI-00CED1?style=for-the-badge&logo=ai&logoColor=FFFFFF" /> </div>
-💻 NLP & Transformers <div> <img src="https://img.shields.io/badge/Transformers-52307C?style=for-the-badge&logo=huggingface&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=ai&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/SpaCy-FF69B4?style=for-the-badge&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/NLTK-00FA9A?style=for-the-badge&logo=python&logoColor=000000" /> 
+<div> <img src="https://img.shields.io/badge/PyTorch-FF6F61?style=for-the-badge&logo=pytorch&logoColor=000000" /> <img src="https://img.shields.io/badge/TensorFlow-FF9900?style=for-the-badge&logo=tensorflow&logoColor=000000" /> <img src="https://img.shields.io/badge/Scikit--Learn-FFB347?style=for-the-badge&logo=scikit-learn&logoColor=000000" /> <img src="https://img.shields.io/badge/Multimodal%20AI-00CED1?style=for-the-badge&logo=ai&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+</div>
+
+ 
+ 💻 NLP & Transformers <div> <img src="https://img.shields.io/badge/Transformers-52307C?style=for-the-badge&logo=huggingface&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=ai&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/SpaCy-FF69B4?style=for-the-badge&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/NLTK-00FA9A?style=for-the-badge&logo=python&logoColor=000000" /> 
 </div>
 
  
