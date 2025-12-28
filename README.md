@@ -48,17 +48,6 @@ Contributed to enhancing digital skills in government services
 
 </div>
 
-### **Research Interest**
-I am deeply interested in developing efficient and robust artificial intelligence systems by leveraging computer vision (CV), natural
-language processing (NLP), and multimodal learning. My research focuses on advancing the optimization of deep learning models,
-with a specialization in transformer architectures and their optimization. 
-
-### **Carrer Objectives**
-Passionate about machine learning and deep learning, interested in applying data-driven techniques and AI models to solve real-
-world problems. Actively seeking opportunities to deepen my skills in predictive modeling, natural language processing (NLP), and
-computer vision while contributing to the development of impactful and intelligent AI solutions.
-
-
 <!-- ## Table of Contents
 
 - [Project 1: Automatic License Plate Recognition](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
