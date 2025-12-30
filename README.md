@@ -1,6 +1,33 @@
 
-# Hello, I'm M.A. RAFI
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Hello, I'm M.A. RAFI
 
 🧠 Skills & Tools
 <div align="center">
@@ -59,7 +86,7 @@ Contributed to enhancing digital skills in government services
 ---
 - [<ins><b>©2023 Mirza Mahfuj Hossain. All rights reserved</b></ins>]()
 --- -->
-## Contact
+<!--## Contact
 
 [M.A. RAFI ](https://github.com/Rafi3690)
 
@@ -82,7 +109,7 @@ aiming to accurately delineate lesion boundaries. This project employs deep lear
 
 <!-- ![Automatic License Plate Recognition](assets/project-alpr.gif) -->
 <!-- <img src="assets/project-alpr.gif" width="600"> -->
-### [Breast Cancer Prediction Using Pycaret](https://github.com/Rafi3690/Breast-Cancer-Prediction-Useing-Pycaret)
+<!--### [Breast Cancer Prediction Using Pycaret](https://github.com/Rafi3690/Breast-Cancer-Prediction-Useing-Pycaret)
 
 ### [Medical Assistant Chatbot Using Langchain](https://github.com/Rafi3690/Chatbot-Development)
 A Medical Assistant Chatbot providing accurate, context-aware healthcare responses using LangChain and Retrieval-Augmented Generation (RAG). 
@@ -182,7 +209,7 @@ highlighting the range of skills I have developed in this area.
 
 Here is some certificates that I achieved: -->
 
-🎓 Certifications
+<!--🎓 Certifications
 <div align="center"> <div style="display:flex; flex-wrap: wrap; justify-content:center; gap:10px;"> <a href="https://drive.google.com/file/d/1LzMUfjKMJSBGMOGwD127hCvszlgTjcFj/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/ML_Specialization-DeepLearning.AI-FF6F61?style=for-the-badge&logo=deeplearning.ai&logoColor=FFFFFF" alt="ML Specialization Certificate 1" /> </a> <a href="https://www.coursera.org/account/accomplishments/certificate/DZPZPRHQACSL" target="_blank"> <img src="https://img.shields.io/badge/ML_Specialization-Coursera-FF6F61?style=for-the-badge&logo=coursera&logoColor=FFFFFF" alt="ML Specialization Certificate 2" /> </a> <a href="https://learn.deeplearning.ai/accomplishments/234fa2cb-058b-43f1-b9fe-43f6a007adce?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/ML_Specialization-DeepLearning.AI_2-FF6F61?style=for-the-badge&logo=deeplearning.ai&logoColor=FFFFFF" alt="ML Specialization Certificate 3" /> </a> <a href="https://drive.google.com/file/d/1d-zlQ00xAv5KE6SGFLknd_UpA93rnPeu/view" target="_blank"> <img src="https://img.shields.io/badge/ML_Specialization-PDF-FF6F61?style=for-the-badge&logo=deeplearning.ai&logoColor=FFFFFF" alt="ML Specialization Certificate 4" /> </a> </div> </div>
 
 <!-- 
@@ -207,4 +234,4 @@ View it online: [Certificate Link](https://coursera.org/share/1fe452302aaab3d09a
 
  -->
 
-#### © 2024 M.A. RAFI All rights reserved.
+<!--#### © 2024 M.A. RAFI All rights reserved.
