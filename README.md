@@ -1,4 +1,4 @@
-## M.A.RAFI;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](www.linkedin.com/in/m-a-rafi-a7300b262/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?user=NeEE6e8AAAAJ&hl=en)        
+## M.A.RAFI;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](www.linkedin.com/in/m-a-rafi-a7300b262)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?user=NeEE6e8AAAAJ&hl=en)        
 
 ### Machine Learning Engineer | B.Sc. in Computer Science and Engineering
 
