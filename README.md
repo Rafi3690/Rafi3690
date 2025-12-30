@@ -1,6 +1,6 @@
-## Samaneh Hesabi, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/samaneh-hesabi/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?user=NeEE6e8AAAAJ&hl=en)        
+## M.A.RAFI;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/samaneh-hesabi/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?user=NeEE6e8AAAAJ&hl=en)        
 
-### Data scientist | Ph.D. in Physics 
+### Machine Learning Engineer | B.Sc. in Computer Science and Engineering
 
 ## Skills 
 
