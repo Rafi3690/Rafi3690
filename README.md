@@ -26,7 +26,7 @@
 📦 [Mistral](https://github.com/Rafi3690/Mistral-7B-Fine-Tuning-Model) |
 📦 [LLaMA](https://github.com/Rafi3690/Llama3.1-8B-Fine-Tuning) |
 🧬 [Segmentation](https://github.com/Rafi3690/ISIC-2017-Segmentation) |
-🎗️ [Breast Cancer ML](https://github.com/Rafi3690/Breast-Cancer-Prediction-Useing-Pycaret)
+🎗️ [Breast Cancer](https://github.com/Rafi3690/Breast-Cancer-Prediction-Useing-Pycaret)
 
 <!-- # Hello, I'm M.A. RAFI
 
