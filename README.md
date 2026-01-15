@@ -27,6 +27,7 @@
 📦 [LLaMA](https://github.com/Rafi3690/Llama3.1-8B-Fine-Tuning) |
 🧬 [Segmentation](https://github.com/Rafi3690/ISIC-2017-Segmentation) |
 🎗️ [Breast Cancer](https://github.com/Rafi3690/Breast-Cancer-Prediction-Useing-Pycaret)
+📊 **[EDA](https://github.com/Rafi3690/EDA)**
 
 <!-- # Hello, I'm M.A. RAFI
 
