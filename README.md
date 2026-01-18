@@ -28,6 +28,51 @@
 🧬 [Segmentation](https://github.com/Rafi3690/ISIC-2017-Segmentation) |
 🎗️ [Breast Cancer](https://github.com/Rafi3690/Breast-Cancer-Prediction-Useing-Pycaret)
 📊 **[EDA](https://github.com/Rafi3690/EDA)**
+🐙 [Gemma](https://github.com/Rafi3690/Gemma-2-9b-4-bit-QLoRA-fine-tuning/tree/main)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- # Hello, I'm M.A. RAFI
 
